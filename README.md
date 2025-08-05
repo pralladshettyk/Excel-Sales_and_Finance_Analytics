@@ -17,7 +17,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/pralladshettyk/Excel-Sales_and_Finance_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/pralladshettyk/Excel-Sales_and_Finance_Analytics/blob/main/P%26L%20by%20Quarters%20and%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/pralladshettyk/Excel-Sales_and_Finance_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Quarters and Months](https://github.com/pralladshettyk/Excel-Sales_and_Finance_Analytics/blob/main/P%26L%20by%20Quarters%20and%20Months.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/pralladshettyk/Excel-Sales_and_Finance_Analytics/blob/main/P%26L%20for%20Markets-FY%202021.pdf)_
 
